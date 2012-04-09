@@ -1,0 +1,20 @@
+#formsreports {}
+	#formsreports h2 {color: #20466a; font-size: 18px; margin: 0 18px 9px 18px; padding: 0;}
+	#formsreports h3 {font-size: 15px; margin: 0 27px; padding: 0;}
+	#formsreports p {margin: 6px 21px 9px 27px; padding: 0;}
+	#formsreports ul {margin: 6px 21px 9px 27px; padding: 0;}
+	#formsreports ul li {margin: 6px 0 0 0;}
+
+#fr_left {width: 273px; margin: 0 15px 0 0; float: left;}
+	#fr_left .header {height: 12px; width: 273px; display: block; background:  no-repeat;}
+	#fr_left .middle {height: auto; width: 273px; display: block; background:  repeat-y; padding: 6px 0 9px 0;}
+	#fr_left .footer {height: 12px; width: 273px; display: block; background:  no-repeat; margin-bottom: 15px;}
+	
+	#fr_left .header_blue {height: 12px; width: 273px; display: block; background: no-repeat;}
+	#fr_left .middle_blue {height: auto; width: 273px; display: block; background: repeat-y; padding: 6px 0 9px 0;}
+	#fr_left .footer_blue {height: 12px; width: 273px; display: block; background: no-repeat; margin-bottom: 15px;}
+	
+#fr_right {width: 231px; float: left;}
+	#fr_right .header {height: 12px; width: 231px; display: block; background: no-repeat;}
+	#fr_right .middle {height: auto; width: 231px; display: block; background: repeat-y; padding: 6px 0 9px 0;}
+	#fr_right .footer {height: 12px; width: 231px; display: block; background: no-repeat; margin-bottom: 15px;}
