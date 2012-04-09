@@ -1,7 +1,7 @@
 <?php
 
 /* 
- * Facebook API (see http://dev.twitter.com/doc for reference
+ * Facebook API
 */
 
 /**
@@ -11,7 +11,7 @@
  *          setting the credentials and application keys
  */
  
- //Application PPD Alerts: https://developers.facebook.com/apps/266568870025731
- FacebookAuthService::setAPICredentials('185247381547676','da0fa1c2389aff2131310cf102eb9f02');
+ //Application Name: https://developers.facebook.com/
+FacebookAuthService::setAPICredentials('apikey','apisecret');
  
  //To-do: add Facebook redirect variable
